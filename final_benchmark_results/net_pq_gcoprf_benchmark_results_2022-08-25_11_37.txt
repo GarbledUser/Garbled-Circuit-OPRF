@@ -1,0 +1,8 @@
+GC-OPRF benchmark from 2022-08-25 at 11:37:46 with n = 1 iterations:
+User input: abc
+-------------------------
+Measured time for each run:
+[47.830438]
+Average Time [ms]: 47.830438
+Standard Deviation [ms]: 0.000000
+Measured Traffic total[Bytes]: 4746133
