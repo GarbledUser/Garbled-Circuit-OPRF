@@ -1,0 +1,11 @@
+OPUS benchmark from Fri Jun  9 10:29:45 2023
+ with n = 10 iterations:
+-------------------------
+Measured time for each run:
+[35315.194, 35289.248, 35340.436, 35279.186, 35222.226, 35305.925, 35257.893, 35253.630, 35255.639, 35333.254]
+Average Time [ms]: 35285.263
+Standard Deviation [ms]: 36.502
+Measured traffic for the run:
+Measured Traffic sent [Bytes]: 8256
+Measured Traffic received [Bytes]: 16448
+Measured Traffic total[Bytes]: 24704
