@@ -45,6 +45,13 @@ Run the GC protocol by calling
 Run the 2HashDH protocol by calling
 `./bin/2HashDH_user abc 127.0.0.1 8888 & ./bin/2HashDH_server 8888`
 
+### Building Isogeny Protocol OPUS
+`cd isogeny-oprf`
+`make`
+Run the protocol by calling 
+`./client 127.0.0.1 8888 & ./server 8888`
+
+
 ## WAN Tests
 To simulate a WAN test, type 
 `sudo tc qdisc add dev lo root  netem  delay 100ms rate 50mbit`
